@@ -1,3 +1,7 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Frog.care'
+
+[params]
+BookTheme = 'auto'
+BookRepo = 'https://github.com/capoferro/frogcare'
