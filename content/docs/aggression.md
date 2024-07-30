@@ -5,4 +5,6 @@ draft = false
 +++
 # Aggression / Territoriality
 
-Aggression can occur in any species of dart frogs. Look for signs of aggression between frogs and be prepared to separate them if it occurs. Of all dart frogs, D. tinctorius are best known for female territorial behavior and should never be housed together. Females have been known to bully another female to the point of death.
+Aggression can occur in any species of dart frogs. Look for signs of aggression between frogs and be prepared to separate them if it occurs. 
+
+D. tinctorius are best known for female territorial behavior and should never be housed together. Females have been known to bully another female to the point of death.

@@ -14,7 +14,7 @@ draft = false
 
 ## What do I feed?
 
-Most frogs eat fruitflies and springtails (which are usually just part of the clean up crew rather than fed directly). These are available in two varieties: melanogaster, a smaller one, and hydei, a larger one. As long as the frogs are big enough to eat them, hydei is the most commonly used fruit fly in the hobby as they have more protein. Melanogaster are needed for smaller frogs and froglets, though larger frogs will happily eat them as well.
+Frogs eat fruitflies and springtails (which are usually just part of the clean up crew rather than fed directly). These are available in two varieties: melanogaster, a smaller one, and hydei, a larger one. As long as the frogs are big enough to eat them, hydei is the most commonly used fruit fly in the hobby as they have more protein. Melanogaster are needed for smaller frogs and froglets, though larger frogs will happily eat them as well.
 
 ## Vitamins
 
