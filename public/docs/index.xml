@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Frog.care</title>
-    <link>https://example.org/</link>
-    <description>Recent content on Frog.care</description>
+    <title>Docs on Frog.care</title>
+    <link>https://example.org/docs/</link>
+    <description>Recent content in Docs on Frog.care</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 29 Jul 2024 19:38:08 -0700</lastBuildDate>
-    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Aggression</title>
       <link>https://example.org/docs/aggression/</link>
