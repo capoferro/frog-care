@@ -2,26 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/docs/aggression/</loc>
+    <loc>http://localhost:1313/license/</loc>
+    <lastmod>2024-07-30T18:15:04-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-07-30T18:06:55-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/aggression/</loc>
     <lastmod>2024-07-29T19:38:08-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/docs/</loc>
+    <loc>http://localhost:1313/docs/</loc>
     <lastmod>2024-07-29T19:38:08-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/</loc>
-    <lastmod>2024-07-29T19:38:08-07:00</lastmod>
-  </url><url>
-    <loc>https://example.org/docs/water_feature/</loc>
+    <loc>http://localhost:1313/docs/water_feature/</loc>
     <lastmod>2024-07-29T17:50:40-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/docs/feeding/</loc>
+    <loc>http://localhost:1313/docs/feeding/</loc>
     <lastmod>2024-07-29T16:15:33-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/docs/vivarium_size/</loc>
+    <loc>http://localhost:1313/docs/vivarium_size/</loc>
     <lastmod>2024-07-29T14:47:46-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>

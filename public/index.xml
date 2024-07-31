@@ -2,39 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Frog.care</title>
-    <link>https://example.org/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Frog.care</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Jul 2024 19:38:08 -0700</lastBuildDate>
-    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 30 Jul 2024 18:15:04 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>License</title>
+      <link>http://localhost:1313/license/</link>
+      <pubDate>Tue, 30 Jul 2024 18:15:04 -0700</pubDate>
+      <guid>http://localhost:1313/license/</guid>
+      <description>License # Content on this website is licensed under Creative Commons Attributuion-Noncommercial-Sharealike 4.0 International&#xA;Attribution-NonCommercial-ShareAlike 4.0 International # Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License By exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and conditions of this Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License (&amp;quot;Public License&amp;quot;). To the extent this Public License may be interpreted as a contract, You are granted the Licensed Rights in consideration of Your acceptance of these terms and conditions, and the Licensor grants You such rights in consideration of benefits the Licensor receives from making the Licensed Material available under these terms and conditions.</description>
+    </item>
     <item>
       <title>Aggression</title>
-      <link>https://example.org/docs/aggression/</link>
+      <link>http://localhost:1313/docs/aggression/</link>
       <pubDate>Mon, 29 Jul 2024 19:38:08 -0700</pubDate>
-      <guid>https://example.org/docs/aggression/</guid>
-      <description>Aggression / Territoriality Aggression can occur in any species of dart frogs. Look for signs of aggression between frogs and be prepared to separate them if it occurs. Of all dart frogs, D. tinctorius are best known for female territorial behavior and should never be housed together. Females have been known to bully another female to the point of death.</description>
+      <guid>http://localhost:1313/docs/aggression/</guid>
+      <description>Aggression / Territoriality # Aggression can occur in any species of dart frogs. Look for signs of aggression between frogs and be prepared to separate them if it occurs.&#xA;D. tinctorius are best known for female territorial behavior and should never be housed together. Females have been known to bully another female to the point of death.</description>
     </item>
     <item>
       <title>Water Features</title>
-      <link>https://example.org/docs/water_feature/</link>
+      <link>http://localhost:1313/docs/water_feature/</link>
       <pubDate>Mon, 29 Jul 2024 17:50:40 -0700</pubDate>
-      <guid>https://example.org/docs/water_feature/</guid>
-      <description>Water Features TL;DR: Don&amp;rsquo;t include a water feature unless you know exactly what you&amp;rsquo;re doing, which probably means you don&amp;rsquo;t need this information.&#xA;Water features are complicated, prone to problems and take away from much needed surface area in an already constrained space and are generally more complicated and risky than the aesthetics make them worth. Most dart frog keepers do not include more than a small, shallow dish of water for their frogs.</description>
+      <guid>http://localhost:1313/docs/water_feature/</guid>
+      <description>Water Features # TL;DR: Don&amp;rsquo;t include a water feature unless you know exactly what you&amp;rsquo;re doing, which probably means you don&amp;rsquo;t need this information.&#xA;Water features are complicated, prone to problems and take away from much needed surface area in an already constrained space and are generally more complicated and risky than the aesthetics make them worth. Most dart frog keepers do not include more than a small, shallow dish of water for their frogs.</description>
     </item>
     <item>
       <title>Feeding</title>
-      <link>https://example.org/docs/feeding/</link>
+      <link>http://localhost:1313/docs/feeding/</link>
       <pubDate>Mon, 29 Jul 2024 16:15:33 -0700</pubDate>
-      <guid>https://example.org/docs/feeding/</guid>
-      <description>Feeding Dart Frogs TL;DR:&#xA;Frogs: 3 days a week. Froglets: 5-7 days a week. Melanogaster or hydei fruit flies depending on frog size Dust flies with calcium + d3 vitamins every feeding, vitamin A at least once a month Howto: https://youtu.be/Q9PkDXLK13A?si=azksV1dVeihP2gvj What do I feed? Most frogs eat fruitflies and springtails (which are usually just part of the clean up crew rather than fed directly). These are available in two varieties: melanogaster, a smaller one, and hydei, a larger one.</description>
+      <guid>http://localhost:1313/docs/feeding/</guid>
+      <description>Feeding Dart Frogs # TL;DR:&#xA;Frogs: 3 days a week. Froglets: 5-7 days a week. Melanogaster or hydei fruit flies depending on frog size Dust flies with calcium + d3 vitamins every feeding, vitamin A at least once a month Howto: https://youtu.be/Q9PkDXLK13A?si=azksV1dVeihP2gvj What do I feed? # Frogs eat fruitflies and springtails (which are usually just part of the clean up crew rather than fed directly). These are available in two varieties: melanogaster, a smaller one, and hydei, a larger one.</description>
     </item>
     <item>
       <title>Vivarium Size</title>
-      <link>https://example.org/docs/vivarium_size/</link>
+      <link>http://localhost:1313/docs/vivarium_size/</link>
       <pubDate>Mon, 29 Jul 2024 14:47:46 -0700</pubDate>
-      <guid>https://example.org/docs/vivarium_size/</guid>
-      <description>Vivarium Size TL;DR: For most dart frogs, 18x18x24&amp;quot; for 2-3 frogs. Check your species for aggression tendencies.&#xA;Medium and large frogs (1-2&amp;quot;, 2.5-5cm, eg. Dendrobates [tinctorius, leucomela, auratus], Oophaga, Ameerega)&#xA;Minimum (2-3 frogs): 18x18x18&amp;quot;, 45x45x45cm Recommended (2-3 frogs): 18x18x24&amp;quot;, 45x45x60cm. Even &amp;ldquo;terrestrial frogs&amp;rdquo; such as D. tinctorius and D. leucomelas and A. bassleri are known to climb all available space in a 24&amp;quot; tall vivarium and will be happy to have it.</description>
+      <guid>http://localhost:1313/docs/vivarium_size/</guid>
+      <description>Vivarium Size # TL;DR: For most dart frogs, 18x18x24&amp;quot; for 2-3 frogs. Check your species for aggression tendencies.&#xA;Medium and large frogs # (1-2&amp;quot;, 2.5-5cm, eg. Dendrobates [tinctorius, leucomela, auratus], Oophaga, Ameerega)&#xA;Minimum (2-3 frogs): 18x18x18&amp;quot;, 45x45x45cm Recommended (2-3 frogs): 18x18x24&amp;quot;, 45x45x60cm. Even &amp;ldquo;terrestrial frogs&amp;rdquo; such as D. tinctorius and D. leucomelas and A. bassleri are known to climb all available space in a 24&amp;quot; tall vivarium and will be happy to have it.</description>
     </item>
   </channel>
 </rss>
