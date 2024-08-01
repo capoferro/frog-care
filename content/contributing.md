@@ -8,7 +8,9 @@ draft = false
 
 Spotted an error? See an opportunity to improve an answer? Want to add a whole new article? Please do!
 
-Content for this site is managed here: https://github.com/capoferro/frog-care/tree/main/content/docs
+Content on Frog.care is intended to be easy to copy and paste to supply as answers to commonly asked questions in various communities such as Facebook groups, Discords, MeWe chats, and others text heavy places. When editing content, try to keep answers as simple as possible with links to sources for more involved, long-form content.
+
+Content for this site is editable here: https://github.com/capoferro/frog-care/tree/main/content/docs
 
 Content is formatted in Markdown. Reference: https://www.markdownguide.org/basic-syntax/
 
