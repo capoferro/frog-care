@@ -8,8 +8,12 @@ draft = false
 
 Frog.care is a directory of simple answers intended to be easy to share in Facebook groups, Discord channels and other text-heavy locations.
 
+## Community
+
+Join our Discord: https://discord.gg/qYChhrmcWn
+
 ## Contributing
 
-Spotted an error? See an opportunity to improve an article? Want to add a whole new article? Contribute here: https://github.com/capoferro/frog-care/tree/main/content/docs
+Spotted an error? See an opportunity to improve an answer? Want to add a whole new article? Please do! See: [Contributing]({{<relref "/contributing.md">}}).
 
 *CONTENT LICENSE: [CC BY-NC-SA 4.0]({{<relref "license">}})*
