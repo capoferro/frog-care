@@ -1,5 +1,5 @@
 +++
-title = ''
+title = 'Home'
 date = 2024-07-30T18:06:55-07:00
 draft = false
 +++
@@ -12,7 +12,7 @@ Frog.care is a collection of simple answers to questions about poison dart frog 
 
 ## Community
 
-Join our Discord: https://discord.gg/qYChhrmcWn
+Join the Frog.care Discord: https://discord.gg/qYChhrmcWn
 
 ## Contributing
 

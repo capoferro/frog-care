@@ -5,16 +5,19 @@ draft = false
 +++
 # Vivarium Size
 
-**TL;DR: For most dart frogs, 18x18x24" for 2-3 frogs. Check your species for aggression tendencies.**
+## TL;DR
+
+For 2-3 of most dart frogs, 18x18x24".
 
 ## Medium and large frogs
-*(1-2", 2.5-5cm, eg. Dendrobates [tinctorius, leucomela, auratus], Oophaga, Ameerega)*  
-* **Minimum (2-3 frogs):** 18x18x18", 45x45x45cm
-* **Recommended (2-3 frogs):** 18x18x24", 45x45x60cm. Even "terrestrial frogs" such as D. tinctorius and D. leucomelas and A. bassleri are known to climb all available space in a 24" tall vivarium and will be happy to have it.
+*(1-2", 2.5-5cm, eg. Dendrobates [tinctorius, leucomela, auratus], Oophaga, large Ameerega such as bassleri)*  
+* **2-3 frogs:** 18x18x18", 45x45x45cm
+* **2-3 arboreal frogs:** 18x18x24", 45x45x60cm. Even "terrestrial frogs" such as D. tinctorius and D. leucomelas are known to climb all available space in a 24" tall vivarium and will be happy to have it.
 ## Small frogs
-*(<1", eg. Ranitomeya, Excidobates)*  
-* **Minimum (2 frogs):** 12x12x18", 30x30x45cm
-* Small dart frogs, such as Ranitomeya, are generally arboreal and will appreciate all the climbing space you can give them. Taller is better.
+*(<1", eg. Ranitomeya, Excidobates, small Ameerega such as ingeri)*  
+* **Breeding pair:** 12x12x18", 30x30x45cm
+* **4-6 frogs:** 18x18x24", 45x45x60cm
+* Small dart frogs, such as Ranitomeya and Excidobates, are generally arboreal and will appreciate all the climbing space you can give them. Taller is better. Smaller Ameerega are still terrestrial, but will often hop on plants and shelves and make use of vertical space.
 
 ## Rule of thumb
 People often say "5-10 gallons per frog". Speaking in terms of "gallons" is a bit misleading, however, as what really matters is surface area from shelves, branches and plants for frogs to traverse and cover for them to hide. Lots of surface area and cover in a smaller vivarium is better than a bigger vivarium that is mostly flat.
