@@ -33,7 +33,5 @@ The smaller the vivarium, the higher the probability of aggression. See: [Aggres
 
 Choose front opening when given the choice. It allows for better ventillation so leaf litter and plants can dry out between mistings. Top opening, as in repurposing an aquarium, can work if extra care is taken to ensure good cross-flow ventillation. 
 
-
-
 # Sources
 * https://www.thebiodude.com/blogs/reptile-and-amphibian-caresheets-with-cited-veterinary-and-herpetology-sources/keeping-poison-dart-frogs-as-pets-and-bioactive-terrarium-maintenance
