@@ -78,3 +78,6 @@ Broadly speaking, the bigger the frog, the bolder it is. The safer the vivarium 
 
 * Ranitomeya
 * Excidobates
+
+## Sources
+* https://dartfrogconnection.com/ (See Dart Frog menu)
