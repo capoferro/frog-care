@@ -24,7 +24,7 @@ A well set up 18x18x18" (45x45x45cm) vivarium with shelves, branches and plants 
 Hobbyists on forums will alway say "bigger is better". While they're correct, extremely large vivariums are not always practical. 
 
 ## Aggression
-The smaller the vivarium, the higher the probability of aggression. See: [Aggression](< relref "/docs/aggression.md">)
+The smaller the vivarium, the higher the probability of aggression. See: [Aggression]({{< relref "aggression.md">}})
 
 ## Front opening vs. top opening
 

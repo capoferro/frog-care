@@ -6,7 +6,9 @@ draft = false
 
 # Frog.care
 
-Frog.care is a directory of simple answers intended to be easy to share in Facebook groups, Discord channels and other text-heavy locations.
+![frog.care](/images/frog_care_small.png "frog.care logo")
+
+Frog.care is a collection of simple answers to questions about poison dart frog care intended to be easy to share in Facebook groups, Discord channels and other text-heavy locations.
 
 ## Community
 

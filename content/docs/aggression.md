@@ -7,6 +7,18 @@ draft = false
 
 Aggression can occur in any species of dart frogs, commonly from males, but also from females (especially D. tinctorius females). Look for signs of aggression between frogs and be prepared to separate them if it occurs. Aggression often takes the form of wrestling. Territorial calls from males may be more forced and staccatto.
 
+The following are often kept in groups without aggression:
+
+* Dendrobates auratus
+* Dendrobates leucomela
+* Epipedobates anthonyi
+* Phyllobates (all species)
+* Ranitomeya (all species)
+* Ameerega (all species)
+
+The following are well known not to do well in groups:
+* Dendrobates tinctorius (females are territorial, limit groups to breeding pair or two males, one female)
+
 Videos of aggressive behavior: 
 * https://www.youtube.com/watch?v=hNMQyy4tJNo
 * https://youtube.com/shorts/PKE1B3VdeCs?si=bLId4HNVBS-DdNw5
