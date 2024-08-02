@@ -7,7 +7,7 @@ draft = false
 # Aggression / Territoriality
 
 ## TL;DR
-Aggression can occur in any species of dart frogs, commonly from males, but also from females (especially D. tinctorius females). Look for signs of aggression between frogs and be prepared to separate them if it occurs. Aggression often takes the form of wrestling. Territorial calls from males may be more forced and staccatto.
+Aggression can occur in any species of dart frogs. Look for signs of aggression between frogs and be prepared to separate them if it occurs. Aggression often takes the form of wrestling with territorial calls from males being forced and staccatto than mating calls.
 
 ## Do well in groups
 
@@ -24,7 +24,7 @@ Aggression can occur in any species of dart frogs, commonly from males, but also
 * Oophaga (all species)
   * males are territorial, small groups can be ok but do best in breeding pairs
 
-Videos of aggressive behavior: 
+## Videos of aggressive behavior 
 * https://www.youtube.com/watch?v=hNMQyy4tJNo
 * https://youtube.com/shorts/PKE1B3VdeCs?si=bLId4HNVBS-DdNw5
 

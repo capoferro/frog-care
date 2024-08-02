@@ -7,6 +7,14 @@ draft = false
 
 # Choosing Frogs
 
+## TL;DR
+
+Excellent beginner frogs:
+* Dendrobates leucomela
+* Dendrobates tinctorius
+* Dendrobates auratus
+* Epipedobates anthonyi
+
 ## What looks the coolest?
 
 Browse lots of great frog pictures here: http://www.dendrowiki.org/alle.html
