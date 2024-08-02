@@ -8,7 +8,7 @@ draft = false
 
 ## TL;DR
 
-Dart frogs are pretty and it's fun to collect lots of different colors. Mixing dart frogs carries significant risks, however, so if you want more than one species or locale, only do so if you can keep a separate vivarium for each type.
+It's common for beginner frog keepers to want to get one of each of their favorite frogs for their enclosure, but this is generally not a good idea. Mixing dart frogs carries significant risks, however, so if you want more than one species or locale, only do so if you can keep a separate vivarium for each type.
 
 ## Problem 1: Frogs will hybridize when breeding
 
