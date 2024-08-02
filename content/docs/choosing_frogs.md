@@ -19,6 +19,10 @@ Excellent beginner frogs:
 
 Browse lots of great frog pictures here: http://www.dendrowiki.org/alle.html
 
+## Can you get one captive bred?
+
+Captive bred frogs are generally healthier in captivity as they have already adapted to life in a vivarium and are dramatically less at risk of bringing diseases along with them that they might otherwise pick up in the wild. Captive bred frogs do not impact wild ecosystems like capturing wild frogs does, so it is a far more ethical approach to keeping frogs.
+
 ## How much space do you have for a vivarium?
 
 Frogs of different sizes (and climbing preferences) thrive in different size vivariums. See: [Vivarium Size]({{<relref "vivarium_size.md">}}).
@@ -27,7 +31,9 @@ Frogs of different sizes (and climbing preferences) thrive in different size viv
 
 Frogs of all species can be territorial, more often males than females with a notable exception being D. tinctorius females. See [Aggression]({{<relref "aggression.md">}}) for a list of frogs that are known to do well in groups.
 
-See also [Vivarium Size]({{<relref "vivarium_size.md">}}).
+### See also
+* [Vivarium Size]({{<relref "vivarium_size.md">}})
+* [Don't mix dart frogs]({{<relref "dont_mix.md">}})
 
 ### Sources
 
@@ -78,6 +84,7 @@ Broadly speaking, the bigger the frog, the bolder it is. The safer the vivarium 
 
 * Ranitomeya
 * Excidobates
+* Phyllobates vittatus
 
 ## Sources
 * https://dartfrogconnection.com/ (See Dart Frog menu)

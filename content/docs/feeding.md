@@ -6,12 +6,13 @@ draft = false
 +++
 # Feeding Dart Frogs
 
-**TL;DR:**  
+## TL;DR
+
 * **Frogs:** 3 days a week.  
 * **Froglets:** 5-7 days a week.  
 * Melanogaster or hydei fruit flies depending on frog size
 * Dust flies with calcium + d3 vitamins every feeding, vitamin A at least once a month
-* **Howto:** https://youtu.be/Q9PkDXLK13A?si=azksV1dVeihP2gvj
+* **How to dust flies** https://youtu.be/Q9PkDXLK13A?si=azksV1dVeihP2gvj
 
 ## What do I feed?
 
@@ -19,7 +20,15 @@ Frogs eat fruitflies and springtails (which are usually just part of the clean u
 
 ## Vitamins
 
-Dart frogs must have supplementation for Calcium, Vitamin D3 and Vitamin A. The most common way to give these is by dusting fruit flies before feeding. Some supplements, such as [Repashy Calcium Plus](https://www.shop.repashy.com/products/repashy-calcium-plus), contain all of these vitamins in a single powder. Other supplements, such as [Rep-Cal Calcium + D3](https://www.pangeareptile.com/products/rep-cal-ultrafine-reptile-calcium-supplement) do not contain Vitamin A, so, when using these, at least one feeding per month should be dusted with [Vitamin A powder](https://www.shop.repashy.com/products/repashy-vitamin-a-plus) instead.
+Dart frogs must have supplementation for Calcium, Vitamin D3 and Vitamin A. The most common way to give these is by dusting fruit flies before feeding.
+
+Some supplements, such as [Repashy Calcium Plus](https://www.shop.repashy.com/products/repashy-calcium-plus), contain all of these vitamins in a single owder. Repashy Calcium Plus is considered the "Gold Standard" of supplements for dart frogs as it is simple and covers all the basics.
+
+Other supplements, such as [Rep-Cal Calcium + D3](https://www.pangeareptile.com/products/rep-cal-ultrafine-reptile-calcium-supplement) do not contain Vitamin A, so, when using these, at least one feeding per month should be dusted with [Vitamin A powder](https://www.shop.repashy.com/products/repashy-vitamin-a-plus) instead.
+
+Frogs can overdose on Vitamin A, so take care not to supplement with it more than once a week when dusting with Vitamin A powder directly.
+
+When breeding, additional Vitamin A is required. Increasing Vitamin A from once a month to 2-4 times per month when actively breeding will help keep frogs healthy. Note that Vitamin A is included in small amounts in All-in-one supplements like Repashy Calcium Plus when increasing Vitamin A supplementation.
 
 **[How to remove fruit flies from cultures, how to dust them and how to feed them to dart frogs
 ](https://youtu.be/Q9PkDXLK13A?si=azksV1dVeihP2gvj)**
