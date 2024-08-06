@@ -6,7 +6,7 @@
     <description>Recent content in Docs on Frog.care</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Aug 2024 18:20:10 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 05 Aug 2024 18:53:00 -0700</lastBuildDate>
     <atom:link href="http://localhost:1313/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Choosing Frogs</title>
@@ -30,6 +30,13 @@
       <description>Vivarium Size # TL;DR # For 2-3 of most dart frogs, 18x18x24&amp;quot;.&#xA;Medium and large frogs # (1-2&amp;quot;, 2.5-5cm, eg. Dendrobates [tinctorius, leucomela, auratus], Oophaga, large Ameerega such as bassleri)&#xA;2-3 frogs: 18x18x18&amp;quot;, 45x45x45cm 2-3 arboreal frogs: 18x18x24&amp;quot;, 45x45x60cm. Even &amp;ldquo;terrestrial frogs&amp;rdquo; such as D. tinctorius and D. leucomelas are known to climb all available space in a 24&amp;quot; tall vivarium and will be happy to have it. Small frogs # (&amp;lt;1&amp;quot;, eg.</description>
     </item>
     <item>
+      <title>Temperature</title>
+      <link>http://localhost:1313/docs/temperature/</link>
+      <pubDate>Sun, 04 Aug 2024 20:44:36 -0700</pubDate>
+      <guid>http://localhost:1313/docs/temperature/</guid>
+      <description>Temperature # TL;DR # Most dart frogs thrive at 70°F (21°C). They can tolerate up to 80°F (26°C) and down to 65°F (18°C) for short periods of time. 85°F (29°C) and above is potentially fatal.&#xA;Heat the Room # The best way to manage vivarium temperatures is by heating the room. If you absolutely can&amp;rsquo;t heat the room with space heaters or other ambient solutions, a heating mat linked with a thermostat can work.</description>
+    </item>
+    <item>
       <title>Aggression</title>
       <link>http://localhost:1313/docs/aggression/</link>
       <pubDate>Mon, 29 Jul 2024 19:38:08 -0700</pubDate>
@@ -44,11 +51,18 @@
       <description>Water Features # TL;DR # Don&amp;rsquo;t include a water feature unless you know exactly what you&amp;rsquo;re doing, which probably means you don&amp;rsquo;t need this information.&#xA;Water features are complicated, prone to problems and take away from much needed surface area in an already constrained space and are generally more complicated and risky than the aesthetics make them worth. Most dart frog keepers do not include more than a small, shallow dish of water for their frogs to soak in (sometimes with a calcium clay mixture).</description>
     </item>
     <item>
+      <title>Humidity</title>
+      <link>http://localhost:1313/docs/humidity/</link>
+      <pubDate>Mon, 05 Aug 2024 18:53:00 -0700</pubDate>
+      <guid>http://localhost:1313/docs/humidity/</guid>
+      <description>Humidity # TL;DR # Keep humidity above 70% for most dart frogs while ensuring there&amp;rsquo;s enough ventilation to allow leaf litter to dry.&#xA;Ventilation # Many plants want to dry out to some degree between misting cycles or their roots and leaves may rot. To enable this, ensure there is enough crossflow ventilation in the vivarium. Most front-opening vivariums have vents under the doors. Because heat rises, a small amount of cross-flow ventilation will occur as long as there are vents on the lid.</description>
+    </item>
+    <item>
       <title>Don&#39;t Mix Dart Frogs</title>
       <link>http://localhost:1313/docs/dont_mix/</link>
       <pubDate>Thu, 01 Aug 2024 18:20:10 -0700</pubDate>
       <guid>http://localhost:1313/docs/dont_mix/</guid>
-      <description>Don&amp;rsquo;t Mix Dart Frogs # TL;DR # Dart frogs are pretty and it&amp;rsquo;s fun to collect lots of different colors. Mixing dart frogs carries significant risks, however, so if you want more than one species or locale, only do so if you can keep a separate vivarium for each type.&#xA;Problem 1: Frogs will hybridize when breeding # Many dart frogs are closely related enough that they will hybridize (for example D.</description>
+      <description>Don&amp;rsquo;t Mix Dart Frogs # TL;DR # It&amp;rsquo;s common for beginner frog keepers to want to get one of each of their favorite frogs for their enclosure, but this is generally not a good idea. Mixing dart frogs carries significant risks, however, so if you want more than one species or locale, only do so if you can keep a separate vivarium for each type.&#xA;Problem 1: Frogs will hybridize when breeding # Many dart frogs are closely related enough that they will hybridize (for example D.</description>
     </item>
   </channel>
 </rss>
