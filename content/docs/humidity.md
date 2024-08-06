@@ -12,7 +12,13 @@ Keep humidity above 70% for most dart frogs while ensuring there's enough ventil
 
 ## Ventilation
 
-Many plants want to dry out to some degree between misting cycles or their roots and leaves may rot. To enable this, ensure there is enough crossflow ventilation in the vivarium. Most front-opening vivariums have vents under the doors. Because heat rises, a small amount of cross-flow ventilation will occur as long as there are vents on the lid. This is often not quite enough, however. Placing small USB fans on lid vents to pull air out of the vivarium will draw air in through the front ventilation and out through the fans in the top and dramatically increase this ventilation. As a side bonus, these fans will also ensure that the glass stays clear, making it easier to see inside.
+Many plants want to dry out to some degree between misting cycles or their roots and leaves may rot. To enable this, ensure there is enough crossflow ventilation in the vivarium. 
+
+Most front-opening vivariums have vents under the doors. Because heat rises, a small amount of cross-flow ventilation will occur as long as there are vents on the lid. This is often not quite enough, however. Placing small USB fans on lid vents to pull air out of the vivarium will draw air in through the front ventilation and out through the fans in the top and dramatically increase this ventilation. 
+
+For top-opening vivariums, pushing air in one side of the lid and out the other is a common strategy to encourage enough crossflow. 
+
+As a side bonus, running fans will also ensure that the glass stays clear, making it easier to see inside.
 
 Popular USB fans: AC Infinity ([https://acinfinity.com/quiet-usb-fans/](https://acinfinity.com/quiet-usb-fans/))
 
