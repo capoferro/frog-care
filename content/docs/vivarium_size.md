@@ -8,11 +8,11 @@ draft = false
 
 ## TL;DR
 
-For 2-3 of most dart frogs, 18x18x24".
+For 2-3 of most dart frogs, 18x18x24" or 24x18x18"
 
 ## Medium and large frogs
 *(1-2", 2.5-5cm, eg. Dendrobates [tinctorius, leucomela, auratus], Oophaga, large Ameerega such as bassleri)*  
-* **2-3 frogs:** 18x18x18", 45x45x45cm
+* **2-3 frogs:** 18x18x18", 45x45x45cm (24x18x18", 60x45x45cm is better)
 * **2-3 arboreal frogs:** 18x18x24", 45x45x60cm. Even "terrestrial frogs" such as D. tinctorius and D. leucomelas are known to climb all available space in a 24" tall vivarium and will be happy to have it.
 ## Small frogs
 *(<1", eg. Ranitomeya, Excidobates, small Ameerega such as ingeri)*  

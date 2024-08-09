@@ -1,4 +1,5 @@
 +++
+weight = 5
 title = 'Humidity'
 date = 2024-08-05T18:53:00-07:00
 draft = false
