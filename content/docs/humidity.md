@@ -11,6 +11,12 @@ draft = false
 
 Keep humidity above 70% for most dart frogs while ensuring there's enough ventilation to allow leaf litter to dry.
 
+## Misting Schedule
+
+Misting (and fan) cycles vary depending on a lot of variables unique to you: ambient humidity, ambient air movement, temperature, how many, how big and what kind of plants you have in the enclosure, how much water is in the drainage layer, how your vents are set up, etc.
+
+Most people mist twice a day for 15-30s, but you may need more or less dependant on the above, so some experimentation is necessary. 
+
 ## Ventilation
 
 Many plants want to dry out to some degree between misting cycles or their roots and leaves may rot. To enable this, ensure there is enough crossflow ventilation in the vivarium. 
